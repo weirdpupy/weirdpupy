@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=weirdpupy&label=hehe&color=FFC9DB)
+![](https://komarev.com/ghpvc/?username=weirdpupy&label=profil+views+^w^&color=FFC9DB)
 
 <!--
 **weirdpupy/weirdpupy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
